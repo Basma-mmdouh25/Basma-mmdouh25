@@ -19,21 +19,48 @@
 
 #### 👨‍💻 Programming Languages  
 <p align="center">
+### 🛠 Skills  
+
+#### 👨‍💻 Programming Languages  
+<p align="center">
   <table>
     <tr>
-      <td align="center"><a href="https://www.python.org/"><img src="https://skillicons.dev/icons?i=python" /><br>Python</a></td>
       <td align="center">
-      <a href="https://www.microsoft.com/sql-server">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="48" height="48"/>
-      <br>SQL Server
-      </a>
+        <a href="https://www.python.org/">
+          <img src="https://skillicons.dev/icons?i=python" width="48" height="48" /><br>Python
+        </a>
       </td>
-
-      <td align="center"><a href="https://www.java.com/"><img src="https://skillicons.dev/icons?i=java" /><br>Java</a></td>
-      <td align="center"><a href="https://isocpp.org/"><img src="https://skillicons.dev/icons?i=cpp" /><br>C++</a></td>
-      <td align="center"><a href="https://developer.mozilla.org/docs/Web/JavaScript"><img src="https://skillicons.dev/icons?i=js" /><br>JavaScript</a></td>
-      <td align="center"><a href="https://developer.mozilla.org/docs/Web/HTML"><img src="https://skillicons.dev/icons?i=html" /><br>HTML</a></td>
-      <td align="center"><a href="https://developer.mozilla.org/docs/Web/CSS"><img src="https://skillicons.dev/icons?i=css" /><br>CSS</a></td>
+      <td align="center">
+        <a href="https://www.microsoft.com/sql-server">
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="48" height="48"/>
+          <br>SQL Server
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://www.java.com/">
+          <img src="https://skillicons.dev/icons?i=java" width="48" height="48" /><br>Java
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://isocpp.org/">
+          <img src="https://skillicons.dev/icons?i=cpp" width="48" height="48" /><br>C++
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://developer.mozilla.org/docs/Web/JavaScript">
+          <img src="https://skillicons.dev/icons?i=js" width="48" height="48" /><br>JavaScript
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://developer.mozilla.org/docs/Web/HTML">
+          <img src="https://skillicons.dev/icons?i=html" width="48" height="48" /><br>HTML
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://developer.mozilla.org/docs/Web/CSS">
+          <img src="https://skillicons.dev/icons?i=css" width="48" height="48" /><br>CSS
+        </a>
+      </td>
     </tr>
   </table>
 </p>
