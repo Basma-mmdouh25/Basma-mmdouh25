@@ -15,12 +15,6 @@
 
 ---
 
-### ⚡ GitHub Stats 
-
-![Basma's GitHub stats](https://github-readme-stats.vercel.app/api?username=Basma-mmdouh25&show_icons=true&theme=tokyonight)
-
----
-
 ### 🛠 Skills  
 
 #### 👨‍💻 Programming Languages  
