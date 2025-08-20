@@ -15,10 +15,9 @@
 
 ---
 
+### 🛠 Skills  
  
 <p align="center"> 
-### 🛠 Skills  
-
 #### 👨‍💻 Programming Languages  
 <p align="center">
   <table>
