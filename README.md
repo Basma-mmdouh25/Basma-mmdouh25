@@ -84,17 +84,6 @@
   </table>
 </p>
 
-#### 🛠 Tools  
-<p align="center">
-  <table>
-    <tr>
-      <td align="center"><a href="https://git-scm.com/"><img src="https://skillicons.dev/icons?i=git" /><br>Git</a></td>
-      <td align="center"><a href="https://github.com/"><img src="https://skillicons.dev/icons?i=github" /><br>GitHub</a></td>
-      <td align="center"><a href="https://code.visualstudio.com/"><img src="https://skillicons.dev/icons?i=vscode" /><br>VS Code</a></td>
-    </tr>
-  </table>
-</p>
-
 ---
 
 ⭐ From [Basma_mmdouh25](https://github.com/Basma-mmdouh25)
