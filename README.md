@@ -22,12 +22,12 @@
   <table>
     <tr>
       <td align="center"><a href="https://www.python.org/"><img src="https://skillicons.dev/icons?i=python" /><br>Python</a></td>
+      <td align="center"><a href="https://www.microsoft.com/sql-server"><img src="https://skillicons.dev/icons?i=mssql" /><br>SQL Server</a></td>
       <td align="center"><a href="https://www.java.com/"><img src="https://skillicons.dev/icons?i=java" /><br>Java</a></td>
       <td align="center"><a href="https://isocpp.org/"><img src="https://skillicons.dev/icons?i=cpp" /><br>C++</a></td>
       <td align="center"><a href="https://developer.mozilla.org/docs/Web/JavaScript"><img src="https://skillicons.dev/icons?i=js" /><br>JavaScript</a></td>
       <td align="center"><a href="https://developer.mozilla.org/docs/Web/HTML"><img src="https://skillicons.dev/icons?i=html" /><br>HTML</a></td>
       <td align="center"><a href="https://developer.mozilla.org/docs/Web/CSS"><img src="https://skillicons.dev/icons?i=css" /><br>CSS</a></td>
-      <td align="center"><a href="https://www.mysql.com/"><img src="https://skillicons.dev/icons?i=sql" /><br>SQL</a></td>
     </tr>
   </table>
 </p>
