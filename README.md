@@ -15,10 +15,8 @@
 
 ---
 
-### 🛠 Skills  
-
-#### 👨‍💻 Programming Languages  
-<p align="center">
+ 
+<p align="center"> 
 ### 🛠 Skills  
 
 #### 👨‍💻 Programming Languages  
