@@ -14,9 +14,10 @@
 ---
 
 ### 🛠 Skills  
-#### 📈 Data Analysis & Visualization Tools
-<p align="center"> <table> <tr> <td align="center"> <a href="https://powerbi.microsoft.com/"> <img src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/3cbe7b7d6a68f88772d5c1c8ccaf2f28b7e2e4d6/SVG/Power-BI.svg" width="48" height="48" /><br>Power BI </a> </td> <td align="center"> <a href="https://www.microsoft.com/excel"> <img src="https://skillicons.dev/icons?i=excel" width="48" height="48" /><br>Excel </a> </td> </tr> </table> </p>
-
+#### 💼 Data Analysis Skills
+#### 📊 Business Intelligence & Visualization
+<p align="center"> <a href="https://powerbi.microsoft.com/" title="Power BI"> <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI"/> </a> <a href="https://www.tableau.com/" title="Tableau"> <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" alt="Tableau"/> </a> <a href="https://www.microsoft.com/excel" title="Excel"> <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="Excel"/> </a> </p>
+<p align="center"> <a href="https://www.microsoft.com/sql-server" title="SQL Server"> <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="SQL Server"/> </a> <a href="https://www.mysql.com/" title="MySQL"> <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/> </a> <a href="https://www.postgresql.org/" title="PostgreSQL"> <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/> </a> </p>
 #### 👨‍💻 Programming Languages  
 <p align="center">
   <table>
