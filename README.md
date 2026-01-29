@@ -1,8 +1,8 @@
 # Hi there 👋, I'm Basma Mamdouh
 
-🎓 Student at Faculty of Computer Sciences and Artificial Intelligence, Department of Operations Research and Decision Support  
-📊 Passionate about *Data Analysis, Data Science, Machine Learning, and AI*  
-🚀 Currently interning and building projects in *ML & Data Science*  
+🎓 Senior Student at FCAI, Department of Operations Research and Decision Support  
+📊 Passionate about *Data Analysis, Data Science and Machine Learning*  
+🚀 Currently interning and building projects in *Data Analysis & Data Science And ML*  
 
 ---
 ### 🔗 Connect with me  
@@ -14,7 +14,9 @@
 ---
 
 ### 🛠 Skills  
- 
+#### 📈 Data Analysis & Visualization Tools
+<p align="center"> <table> <tr> <td align="center"> <a href="https://powerbi.microsoft.com/"> <img src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/3cbe7b7d6a68f88772d5c1c8ccaf2f28b7e2e4d6/SVG/Power-BI.svg" width="48" height="48" /><br>Power BI </a> </td> <td align="center"> <a href="https://www.microsoft.com/excel"> <img src="https://skillicons.dev/icons?i=excel" width="48" height="48" /><br>Excel </a> </td> </tr> </table> </p>
+
 #### 👨‍💻 Programming Languages  
 <p align="center">
   <table>
